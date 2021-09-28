@@ -1,0 +1,9 @@
+.row-special .col-6 div {
+    background-color: #F07F80;
+    border: 1px solid #FFC0CB;
+}
+
+.row, .row-special {
+    background-color: #FFC0CB;
+
+}
